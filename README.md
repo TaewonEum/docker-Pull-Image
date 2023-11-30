@@ -35,3 +35,7 @@ teddylee777/deepko:2023-01 이미지 Pull
 - 해당 주피터랩에서 해당 이미지 환경 사용 가능
 
 # GPU 사용
+
+![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/704dac0a-31cc-4e97-b5f0-12a493aa43b3)
+
+- 현재 GPU는 사용할 수 없음
