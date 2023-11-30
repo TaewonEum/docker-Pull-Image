@@ -16,4 +16,7 @@ teddylee777/deepko:2023-01 이미지 Pull
   
 ![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/7c95903e-c4e5-4669-b05e-9b3a2faedc4e)
 
+- cuda available 사용 불가->GPU 사용 불가
+
+![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/199c774e-aae5-4e57-8f0b-8bc728b3f3b3)
 
