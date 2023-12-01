@@ -40,12 +40,5 @@ teddylee777/deepko:2023-01 이미지 Pull
 - 내 서버에 Docker image load
 - 이후 GPU 서버와 연동하여 수행해보기
 
-![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/2c57c232-15a9-497d-a492-4236783ebf12)
-
-- Docker image tar 파일이 있는 경로로 이동
-
-![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/bd15575d-eb36-475c-9453-bd005303595b)
-
-- docker image load
-
+해당 이미지는 파이썬, 파이토치 기반의 이미지 분류 프로젝트를 수행할 수 있는 도커 이미지임
 
