@@ -34,4 +34,8 @@ teddylee777/deepko:2023-01 이미지 Pull
 
 - 해당 주피터랩에서 해당 이미지 환경 사용 가능
 
-# 그 외의 이미지 Pull(GPU 연동하여 ML/DL 수행)
+# 이미지 (GPU 연동하여 ML/DL 수행)
+
+- tar 파일로 저장
+- 내 서버에 Docker image load
+- 이후 GPU 서버와 연동하여 수행해보기
