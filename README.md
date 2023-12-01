@@ -44,4 +44,8 @@ teddylee777/deepko:2023-01 이미지 Pull
 
 - Docker image tar 파일이 있는 경로로 이동
 
+![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/bd15575d-eb36-475c-9453-bd005303595b)
+
+- docker image load
+
 
