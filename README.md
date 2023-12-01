@@ -39,3 +39,9 @@ teddylee777/deepko:2023-01 이미지 Pull
 - tar 파일로 저장
 - 내 서버에 Docker image load
 - 이후 GPU 서버와 연동하여 수행해보기
+
+![image](https://github.com/TaewonEum/docker-Pull-Image/assets/104436260/2c57c232-15a9-497d-a492-4236783ebf12)
+
+- Docker image tar 파일이 있는 경로로 이동
+
+
